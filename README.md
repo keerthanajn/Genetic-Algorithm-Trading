@@ -39,7 +39,7 @@ The optimization process maximizes returns by evaluating crossover parameters th
 To set up this project locally, clone the repository and install the required libraries:
 
 ```bash
-git clone https://github.com/your-username/Moving-Average-Crossover-Optimization.git
+git clone https://github.com/keerthanajn/Genetic-Algorithm-Trading.git
 cd Moving-Average-Crossover-Optimization
 pip install -r requirements.txt
 ```
