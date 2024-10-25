@@ -1,4 +1,3 @@
-Here's a GitHub README template for your Moving Average Crossover Strategy optimization project using a genetic algorithm.
 
 ---
 
